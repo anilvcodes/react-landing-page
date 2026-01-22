@@ -22,7 +22,6 @@ This project is ideal for startups, portfolios, or product showcases.
 - HTML5
 
 
----
 
 ## 📂 Project Structure
 
