@@ -20,9 +20,9 @@ This project is ideal for startups, portfolios, or product showcases.
 - React
 - JavaScript (ES6+)
 - HTML5
-- CSS3 / Tailwind CSS (if used)
 
----
+
 
 ## 📂 Project Structure
+
 
